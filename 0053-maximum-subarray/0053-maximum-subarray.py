@@ -2,7 +2,7 @@ class Solution(object):
     def maxSubArray(self, nums):
         #ans = -math.inf
         # Or simply
-        ans = float('-inf')
+        ans = -99999
         sum=0
         for i in range(len(nums)):
             sum+=nums[i]
