@@ -5,8 +5,7 @@ class Solution:
         while ss!=1:
             if ss % 2 != 0:
                 ss=ss+1
-                c+=1
-            elif ss % 2 == 0:
+            else:
                 ss=ss//2
-                c+=1
+            c+=1
         return c
