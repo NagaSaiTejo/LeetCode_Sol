@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1207-unique-number-of-occurrences) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Math
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
