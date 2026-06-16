@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3612-process-string-with-special-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
