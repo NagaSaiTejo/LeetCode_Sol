@@ -1,23 +1,13 @@
 class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
-        counts={'b':0,'a':0,'l':0, 'o':0, 'n':0}
+        char_counts = {}
         for char in text:
-            if char in counts:
-                counts[char] += 1
-        balloons_formed=0
-        while True:
-            if (counts['b'] >= 1 and 
-                counts['a'] >= 1 and 
-                counts['l'] >= 2 and 
-                counts['o'] >= 2 and 
-                counts['n'] >= 1):
-
-                counts['b'] -= 1
-                counts['a'] -= 1
-                counts['l'] -= 2
-                counts['o'] -= 2
-                counts['n'] -= 1
-                balloons_formed += 1
-            else:
-                break
-        return balloons_formed 
+            char_counts[char] = char_counts.get(char, 0) + 1
+            
+        b_count = char_counts.get('b', 0)
+        a_count = char_counts.get('a', 0)
+        l_count = char_counts.get('l', 0) // 2 
+        o_count = char_counts.get('o', 0) // 2
+        n_count = char_counts.get('n', 0)
+        
+        return min(b_count, a_count, l_count, o_count, n_count)
