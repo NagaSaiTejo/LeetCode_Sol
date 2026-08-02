@@ -1,5 +1,16 @@
 class Solution:
     def stoneGame(self, piles: List[int]) -> bool:
-        evensum=sum(piles[i] for i in range(0,len(piles),2))
-        oddsum=sum(piles[i] for i in range(1,len(piles),2))
-        return evensum!=oddsum
+        evensum=0
+        oddsum=0
+        n=len(piles)
+        
+        for i in range(n):
+            if i%2==0:
+                evensum=evensum+piles[i]
+            else:
+                oddsum=oddsum+piles[i]
+                
+        if evensum!=oddsum:
+            return True
+        else:
+            return False
