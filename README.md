@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0877-stone-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3612-process-string-with-special-operations-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
