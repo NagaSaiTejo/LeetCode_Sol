@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1207-unique-number-of-occurrences) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
