@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0268-missing-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
