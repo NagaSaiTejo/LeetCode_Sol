@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1207-unique-number-of-occurrences) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0877-stone-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prefix Sum
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -120,4 +123,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
