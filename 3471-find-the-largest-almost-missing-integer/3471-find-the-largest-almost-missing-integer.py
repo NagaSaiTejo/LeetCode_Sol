@@ -1,0 +1,13 @@
+class Solution:
+    def largestInteger(self, nums: List[int], k: int) -> int:
+        if k==1:
+            a=[x for x in set(nums) if nums.count(x)==1]
+            return max(a) if a else -1
+        if k==len(nums):
+            return max(nums)
+        a=[]
+        if nums.count(nums[0])==1:
+            a.append(nums[0])
+        if nums.count(nums[-1])==1:
+            a.append(nums[-1])
+        return max(a) if a else -1
