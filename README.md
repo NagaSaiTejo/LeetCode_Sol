@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0349-intersection-of-two-arrays) |
