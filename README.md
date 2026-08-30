@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
