@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0268-missing-number) |
+| [0312-burst-balloons](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1207-unique-number-of-occurrences) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0070-climbing-stairs) |
+| [0312-burst-balloons](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0312-burst-balloons) |
 | [0877-stone-game](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
