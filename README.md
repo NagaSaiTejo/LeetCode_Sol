@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0070-climbing-stairs) |
 | [0312-burst-balloons](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0312-burst-balloons) |
 | [0877-stone-game](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0877-stone-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Hash Table
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0349-intersection-of-two-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Tree
 |  |
 | ------- |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
