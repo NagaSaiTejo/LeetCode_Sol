@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1207-unique-number-of-occurrences) |
+| [1267-count-servers-that-communicate](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Nim Game
@@ -207,14 +209,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
@@ -242,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
