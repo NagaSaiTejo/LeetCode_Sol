@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/NagaSaiTejo/LeetCode_Sol/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Minimax
 |  |
 | ------- |
